@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Joshua Duncan</h1>
-<h3 align="center">An aspiring software developer with a history in hospitality management, marketing, & sales.</h3>
+<h1>Hi 👋, I'm Joshua Duncan</h1>
+<h3>An aspiring software developer with a history in hospitality management, marketing, & sales.</h3>
 
 - 🔭 I’m currently working on **a software development course with Practicum University**
 
