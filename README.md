@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **on AI in the fields of Crypto and uses in Sustainable Agriculture**
+- 👯 I’m looking to collaborate on **AI in the fields of Crypto and uses in Sustainable Agriculture**
 
 - 📫 How to reach me **emailjoshduncan@gmail.com**
 
