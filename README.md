@@ -9,7 +9,7 @@ I'm an aspiring software developer who's jumped into the world of tech from a ba
 - 👯 **Collaboration interests:** I’m intrigued by AI, especially its applications in Crypto and Sustainable Agriculture. If you're working on something related, let's connect and see how we can make a difference together!
 
 - 📫 **Reach out to me at:** [emailjoshduncan@gmail.com](mailto:emailjoshduncan@gmail.com)
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/jduncan017/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jduncan017/" height="30" width="40" /></a>
