@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Joshua Duncan</h1>
 <h3>An aspiring software developer with a history in hospitality management, marketing, & sales.</h3>
 
-- 🔭 I’m currently working on **a software development course with Practicum University**
+- 🔭 I’m currently working on **a software development course with TripleTen University**
 
 - 🌱 I’m currently learning **Javascript**
 
