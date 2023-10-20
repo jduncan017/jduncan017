@@ -4,7 +4,7 @@ I'm an aspiring software developer who's jumped into the world of tech from a ba
 
 - 🔭 **What I'm up to:** I’m currently immersing myself in a software development course at TripleTen University. I'm learning, growing, and loving every minute of it!
 
-- 🌱 **What I'm learning:** I'm diving headfirst into React.js, enhancing my skills in building complex, dynamic user interfaces.
+- 🌱 **What I'm learning:** I'm diving headfirst into Node.js, enhancing my skills in building efficient, back-end servers & APIs.
 
 - 👯 **Collaboration interests:** I’m intrigued by AI, especially its applications in Crypto and Sustainable Agriculture. If you're working on something related, let's connect and see how we can make a difference together!
 
