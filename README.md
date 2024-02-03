@@ -1,5 +1,4 @@
 ![Header](./github-header.png)
-# Greetings!
 
 I’m a full-stack developer with a background in sales, marketing, and business development. Additionally, with over seven years of experience spent building and running businesses, I excel in culture building and the management of both people and projects.
 
