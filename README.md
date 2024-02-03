@@ -25,4 +25,4 @@ I'm an aspiring software developer who's jumped into the world of tech from a ba
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 
 [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jduncan017&theme=gotham&show=reviews&hide_rank=true&show_icons=true&line_height=29)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jduncan017&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jduncan017&theme=gotham&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
