@@ -24,7 +24,7 @@ I'm diving headfirst into Next.js, enhancing my skills in building efficient, mo
 I’m intrigued by AI, especially its applications in Crypto and Sustainable Agriculture. If you're working on something related, let's connect and see how we can make a difference together!</p>
 
 <p><strong>📬 Reach out</strong><br>
-[emailjoshduncan@gmail.com](mailto:emailjoshduncan@gmail.com)
+<a href="mailto:emailjoshduncan@gmail.com">emailjoshduncan@gmail.com</a></p>
 
 ## My Github Stats 📈
 <a href="https://github.com/anuraghazra/github-readme-stats">
