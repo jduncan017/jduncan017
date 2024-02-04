@@ -4,26 +4,26 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jduncan017&label=PROFILE+VIEWS)
 ##
-#🙋🏽‍♂️ Who I am
-I’m a full-stack developer with a background in sales, marketing, and business development.  
-With 7+ years of experience building and running businesses, I excel in culture building and project management.
+<p><strong>🙋🏽‍♂️ Who I am</strong><br>
+I’m a full-stack developer with a background in sales, marketing, and business development.<br>
+With 7+ years of experience building and running businesses, I excel in culture building and project management.</p>
 
-## 🌐 My Values
-I am passionate about systems design and problem solving. With an aptitude for user experience.
+<p><strong>🌐 My Values</strong><br>
+I am passionate about systems design and problem solving. With an aptitude for user experience.</p>
 
-## 🔍 My Focus
-I've recently completed a full-stack developer program, and now I'm working to build my portfolio as I switch entirely into tech.
+<p><strong>🔍 My Focus</strong><br>
+I've recently completed a full-stack developer program, and now I'm working to build my portfolio as I switch entirely into tech.</p>
 
-## 💻 Tech Stack **
-I'm adaptable and ready to learn any language or framework needed to tackle a project, but currently my tech stack of choice is TypeScript, Next.js, Node.js, MongoDB, HTML5, and CSS3
+<p><strong>💻 Tech Stack</strong><br>
+I'm adaptable and ready to learn any language or framework needed to tackle a project, but currently my tech stack of choice is TypeScript, Next.js, Node.js, MongoDB, HTML5, and CSS3</p>
 
-## 🎓 What I'm learning
-I'm diving headfirst into Next.js, enhancing my skills in building efficient, modern web applications.
+<p><strong>🎓 What I'm learning</strong><br>
+I'm diving headfirst into Next.js, enhancing my skills in building efficient, modern web applications.</p>
 
-## 👏🏽 Collaboration Interests
-I’m intrigued by AI, especially its applications in Crypto and Sustainable Agriculture. If you're working on something related, let's connect and see how we can make a difference together!
+<p><strong>👏🏽 Collaboration Interests</strong><br>
+I’m intrigued by AI, especially its applications in Crypto and Sustainable Agriculture. If you're working on something related, let's connect and see how we can make a difference together!</p>
 
-## 📬 Reach out
+<p><strong>📬 Reach out</strong><br>
 [emailjoshduncan@gmail.com](mailto:emailjoshduncan@gmail.com)
 
 ## My Github Stats 📈
