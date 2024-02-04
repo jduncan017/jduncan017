@@ -4,7 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jduncan017&label=PROFILE+VIEWS)
 ##
-</div>
 <p><strong>🙋🏽‍♂️ Who I am</strong><br>
 I’m a full-stack developer with a background in sales, marketing, and business development.<br>
 With 7+ years of experience building and running businesses, I excel in culture building and project management.</p>
@@ -27,8 +26,7 @@ I’m intrigued by AI, especially its applications in Crypto and Sustainable Agr
 <p><strong>📬 Reach out</strong><br>
 <a href="mailto:emailjoshduncan@gmail.com">emailjoshduncan@gmail.com</a></p>
 
-<div align="center">
-    <h2>My Github Stats 📈</h2>
+<h2>My Github Stats 📈</h2>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=jduncan017&theme=gotham&rank_icon=github&show_icons=true&line_height=28" alt="Joshua's GitHub stats">
     </a>
