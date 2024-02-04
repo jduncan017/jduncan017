@@ -9,7 +9,6 @@ A full-stack developer with a background in sales, marketing, and business devel
 
 <h2><strong>💻 Tech Stack</strong></h2>
 I'm adaptable and ready to learn any language or framework needed to tackle a project, but currently my stack of choice is TypeScript, Next.js, Node.js, MongoDB, HTML5, and CSS3</p>
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 <h2>My Github Stats 📈</h2>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,3 +19,4 @@ I'm adaptable and ready to learn any language or framework needed to tackle a pr
     </a>
 </div>
 
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
