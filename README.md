@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 ![Header](./github-header.png)
 ##
