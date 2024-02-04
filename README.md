@@ -9,6 +9,7 @@ A full-stack developer with a background in sales, marketing, and business devel
 
 <h2><strong>💻 Tech Stack</strong></h2>
 I'm adaptable and ready to learn any language or framework needed to tackle a project, but currently my stack of choice is TypeScript, Next.js, Node.js, MongoDB, HTML5, and CSS3
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=gotham)
 
 <h2>My Github Stats 📈</h2>
     <a href="https://github.com/anuraghazra/github-readme-stats">
