@@ -1,6 +1,7 @@
 <div>
 
 ![Header](./github-header.png)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=jduncan017&label=PROFILE+VIEWS)
 ##
 
