@@ -3,6 +3,7 @@
 ![Header](./github-header.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jduncan017&label=PROFILE+VIEWS)
+
 ##
 I’m a full-stack developer with a background in sales, marketing, and business development. With 7+ years of experience building and running businesses, I excel in culture building and project management. I'm passionate about systems design and problem solving, and focus on developing next level user experience. Recently I completed a full-stack developer program, and I'm now working to build my portfolio as I switch entirely into tech.
 
