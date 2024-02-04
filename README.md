@@ -1,6 +1,6 @@
 ![Header](./github-header.png)
 
-**Who I Am -**
+**👨🏻 Who I Am -**
 I’m a full-stack developer with a background in sales, marketing, and business development. \
 With 7+ of experience building and running businesses, I excel in culture building and project management.
 
