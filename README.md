@@ -1,5 +1,7 @@
 ![Header](./github-header.png)
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 **🙋🏽‍♂️ Who I am -**
 I’m a full-stack developer with a background in sales, marketing, and business development. \
 With 7+ of experience building and running businesses, I excel in culture building and project management.
