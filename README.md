@@ -9,9 +9,6 @@ I’m a full-stack developer with a background in sales, marketing, and business
 <h2><strong>💻 Tech Stack</strong></h2>
 I'm adaptable and ready to learn any language or framework needed to tackle a project, but currently my tech stack of choice is TypeScript, Next.js, Node.js, MongoDB, HTML5, and CSS3</p>
 
-<p><strong>📬 Reach out</strong><br>
-<a href="mailto:emailjoshduncan@gmail.com">emailjoshduncan@gmail.com</a></p>
-
 <h2>My Github Stats 📈</h2>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=jduncan017&theme=gotham&rank_icon=github&show_icons=true&line_height=28" alt="Joshua's GitHub stats">
