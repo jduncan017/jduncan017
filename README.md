@@ -26,6 +26,7 @@ I’m intrigued by AI, especially its applications in Crypto and Sustainable Agr
 ## 📬 Reach out
 [emailjoshduncan@gmail.com](mailto:emailjoshduncan@gmail.com)
 
+## My Github Stats 📈
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=jduncan017&theme=gotham&rank_icon=github&show_icons=true&line_height=28" alt="Joshua's GitHub stats">
 </a>
