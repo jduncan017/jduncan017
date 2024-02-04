@@ -1,4 +1,3 @@
-<div>
 <div align="center">
 
 ![Header](./github-header.png)
@@ -29,13 +28,12 @@ I’m intrigued by AI, especially its applications in Crypto and Sustainable Agr
 <a href="mailto:emailjoshduncan@gmail.com">emailjoshduncan@gmail.com</a></p>
 
 <div align="center">
-## My Github Stats 📈
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jduncan017&theme=gotham&rank_icon=github&show_icons=true&line_height=28" alt="Joshua's GitHub stats">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jduncan017&theme=gotham&layout=donut" alt="Top Langs">
-</a>
+    <h2>My Github Stats 📈</h2>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=jduncan017&theme=gotham&rank_icon=github&show_icons=true&line_height=28" alt="Joshua's GitHub stats">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jduncan017&theme=gotham&layout=donut" alt="Top Langs">
+    </a>
+</div>
 
-</div>
-</div>
