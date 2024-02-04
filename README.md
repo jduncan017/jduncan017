@@ -3,8 +3,17 @@
 ![Header](./github-header.png)
 
 ![Hello World](https://badgen.net/static/HELLO/WORLD/?color=009490)
-<a href="www.joshuaduncan.info" target="_blank">
-![Hello World](https://badgen.net/static/CLICK%20FOR/PORTFOLIO/?color=009490)
+<a href="https://www.joshuaduncan.info" target="_blank">
+![Portfolio](https://badgen.net/static/CLICK%20FOR/PORTFOLIO/?color=009490)
+</a>
+<a href="https://www.linkedin.com/in/jduncan017/" target="_blank">
+![Linked In](https://badgen.net/static/CLICK%20FOR/LINKEDIN/?color=009490)
+</a>
+<a href="https://twitter.com/Jduncan017" target="_blank">
+![X](https://badgen.net/static/CLICK%20FOR/X/?color=009490)
+</a>
+<a href="mailto:emailjoshduncan@gmail.com" target="_blank">
+![Email](https://badgen.net/static/SEND%20AN/EMAIL/?color=009490)
 </a>
 ![Profile Views](https://komarev.com/ghpvc/?username=jduncan017&label=PROFILE+VIEWS&color=009490)
 
@@ -37,20 +46,6 @@ I'm a full-stack developer with a background in sales, marketing, and business d
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
-<h2><strong>Let's Connect! 🙋🏽</strong></h2>
-<strong>I Love to Network and I'm Especially Interested in Exploring Projects Involving Crypto & Agricultural Technology</strong></p>
-
-<a href="mailto:emailjoshduncan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://www.linkedin.com/in/jduncan017/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://twitter.com/Jduncan017">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-</a>
-
 
 <div>
 <h2>My Github Stats 📈</h2>
