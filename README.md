@@ -1,7 +1,7 @@
 ![Header](./github-header.png)
 
 I’m a full-stack developer with a background in sales, marketing, and business development. \
-With 7+ of experience building and running businesses, I excel in culture building and the management of both people and projects.
+With 7+ of experience building and running businesses, I excel in culture building and both people and project management.
 
 I am passionate about systems design and problem solving. With an aptitude for user experience.
 I've recently completed a full-stack developer program, and now I'm working to build my portfolio as I switch entirely into tech.
