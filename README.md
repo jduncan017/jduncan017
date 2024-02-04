@@ -8,10 +8,8 @@
 I’m a full-stack developer with a background in sales, marketing, and business development.<br>
 With 7+ years of experience building and running businesses, I excel in culture building and project management.</p>
 
-<p><strong>🌐 My Values</strong><br>
 I am passionate about systems design and problem solving. With an aptitude for user experience.</p>
 
-<p><strong>🔍 My Focus</strong><br>
 I've recently completed a full-stack developer program, and now I'm working to build my portfolio as I switch entirely into tech.</p>
 
 <p><strong>💻 Tech Stack</strong><br>
