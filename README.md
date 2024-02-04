@@ -1,5 +1,9 @@
 ![Header](./github-header.png)
 
+[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jduncan017&theme=gotham&rank_icon=github&show_icons=true&line_height=28)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jduncan017&theme=gotham&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
 I’m a full-stack developer with a background in sales, marketing, and business development. \
 Additionally, with 7+ of experience building and running businesses, I excel in culture building and the management of both people and projects.
 
@@ -15,6 +19,3 @@ I'm adaptable and ready to learn any language or framework needed to tackle a pr
 - 👯 **Collaboration interests:** I’m intrigued by AI, especially its applications in Crypto and Sustainable Agriculture. If you're working on something related, let's connect and see how we can make a difference together!
 
 - 📫 **Reach out to me at:** [emailjoshduncan@gmail.com](mailto:emailjoshduncan@gmail.com)
-
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jduncan017&theme=gotham&rank_icon=github&show_icons=true&line_height=28)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jduncan017&theme=gotham&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
