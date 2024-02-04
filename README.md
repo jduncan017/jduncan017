@@ -1,9 +1,8 @@
 <div align="center">
 
 ![Header](./github-header.png)
-
-![Profile Views](https://komarev.com/ghpvc/?username=jduncan017&label=PROFILE+VIEWS)
 ##
+![Profile Views](https://komarev.com/ghpvc/?username=jduncan017&label=PROFILE+VIEWS)
 <p><strong>🙋🏽‍♂️ Who I am</strong><br>
 I’m a full-stack developer with a background in sales, marketing, and business development. With 7+ years of experience building and running businesses, I excel in culture building and project management. I am passionate about systems design and problem solving. With an aptitude for user experience.</p>
 
