@@ -24,4 +24,3 @@ I’m intrigued by AI, especially its applications in Crypto and Sustainable Agr
   
 [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=jduncan017&theme=gotham&rank_icon=github&show_icons=true&line_height=28)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jduncan017&theme=gotham&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jduncan017&theme=gotham)](https://git.io/streak-stats)
