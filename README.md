@@ -1,3 +1,4 @@
+<div>
 <div align="center">
 
 ![Header](./github-header.png)
@@ -36,4 +37,5 @@ I’m intrigued by AI, especially its applications in Crypto and Sustainable Agr
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jduncan017&theme=gotham&layout=donut" alt="Top Langs">
 </a>
 
+</div>
 </div>
