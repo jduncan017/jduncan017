@@ -4,13 +4,16 @@
 
 ![Hello World](https://badgen.net/static/HELLO/WORLD/?color=009490)
 <a href="https://www.joshuaduncan.info" target="_blank">
-![Portfolio](https://badgen.net/static/CLICK%20FOR/PORTFOLIO/?color=009490)
+![Portfolio](https://badgen.net/static/VIEW%20MY/PORTFOLIO/?color=009490)
 </a>
 <a href="https://www.linkedin.com/in/jduncan017/" target="_blank">
-![Linked In](https://badgen.net/static/CLICK%20FOR/LINKEDIN/?color=009490)
+![Linked In](https://badgen.net/static/VIEW%20MY/LINKEDIN/?color=009490)
 </a>
 <a href="https://twitter.com/Jduncan017" target="_blank">
-![X](https://badgen.net/static/CLICK%20FOR/X/?color=009490)
+![X](https://badgen.net/static/VIEW%20MY/X%20(TWITTER)/?color=009490)
+</a>
+<a href="https://calendly.com/jduncan017/1-hour-meeting" target="_blank">
+![Schedule](https://badgen.net/static/SCHEDULE%20A/MEETING/?color=009490)
 </a>
 <a href="mailto:emailjoshduncan@gmail.com" target="_blank">
 ![Email](https://badgen.net/static/SEND%20AN/EMAIL/?color=009490)
