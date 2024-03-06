@@ -21,7 +21,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jduncan017&label=PROFILE+VIEWS&color=009490)
 
 ##
-I'm a full-stack developer with a background in sales, marketing, and business development. With 7+ years of experience building and running businesses, I have a love for culture building and project management. I'm passionate about systems design and problem solving, and focus on developing next level user experience. Recently I completed a full-stack developer program, and I'm now working to build my portfolio as I switch entirely into tech.
+I'm a full-stack developer with a background in sales, marketing, and business development. With a history of 7+ years building and running businesses, I have a love for culture building and project management. I'm passionate about systems design and problem solving, and I'm focused on developing next level user experiences. As a newer full-stack developer, and I'm currently working to build my portfolio as I switch entirely into tech.
     
 <h2><strong>My Tech Stack 💻</strong></h2>
 <strong>I'm Adaptable and Ready to Learn Anything to Tackle a Project, but My Current Stack is:</strong></p>
