@@ -1,7 +1,6 @@
 <div>
     
 ![Header](./github-header.png)
-
 <a href="https://www.joshuaduncan.info/" target="_blank">    
 ![Portfolio](https://badgen.net/static/VIEW%20MY/PORTFOLIO/?color=009490)
 </a>
