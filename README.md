@@ -7,9 +7,6 @@
 <a href="https://www.linkedin.com/in/jduncan017/" target="_blank">
 ![Linked In](https://badgen.net/static/VIEW%20MY/LINKEDIN/?color=009490)
 </a>
-<a href="https://twitter.com/Jduncan017" target="_blank">
-![X](https://badgen.net/static/VIEW%20MY/X%20(TWITTER)/?color=009490)
-</a>
 <a href="https://calendly.com/jduncan017/1-hour-meeting" target="_blank">
 ![Schedule](https://badgen.net/static/SCHEDULE/MEETING/?color=009490)
 </a>
