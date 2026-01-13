@@ -15,11 +15,11 @@
 </a>
 ![Profile Views](https://komarev.com/ghpvc/?username=jduncan017&label=PROFILE+VIEWS&color=009490)
 ##
-Hello! 👋
+Hello!
 
 I'm Josh, a product manager and full-stack developer who brings together technical execution, industry expertise, and strategic thinking. With 12 years in hospitality operations and a background in software engineering, I understand both the technology and the business problems it needs to solve.
 
-I've led product development from concept to launch, including building PourCost—a SaaS platform for restaurant operations management. Currently running DigitalNova Studio, I partner with clients to translate market needs into technical solutions, managing cross-functional collaboration and delivering products that drive real business outcomes.
+I've led product development from concept to launch, building SaaS platforms and working with clients to translate market needs into technical solutions. Currently running DigitalNova Studio, I partner with businesses to manage cross-functional collaboration and deliver products that drive real business outcomes.
 
 I thrive at the intersection of product strategy and hands-on development, whether I'm defining requirements, working directly with engineering teams, or diving into the details of building software.
     
